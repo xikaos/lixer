@@ -1,0 +1,364 @@
+21:28:42.511514 IP 192.168.0.235.59560 > 200.142.191.15.https: Flags [.], ack 2707618213, win 360, options [nop,nop,TS val 2446872 ecr 2405958203], length 0
+21:28:42.511534 IP 192.168.0.235.59562 > 200.142.191.15.https: Flags [.], ack 590322083, win 348, options [nop,nop,TS val 2446872 ecr 2405958202], length 0
+21:28:42.511540 IP 192.168.0.235.59570 > 200.142.191.15.https: Flags [.], ack 1383663526, win 348, options [nop,nop,TS val 2446872 ecr 2405958217], length 0
+21:28:42.511546 IP 192.168.0.235.59568 > 200.142.191.15.https: Flags [.], ack 2577506142, win 336, options [nop,nop,TS val 2446872 ecr 2405958204], length 0
+21:28:42.511552 IP 192.168.0.235.59566 > 200.142.191.15.https: Flags [.], ack 49293696, win 348, options [nop,nop,TS val 2446872 ecr 2405958203], length 0
+21:28:42.520806 IP 200.142.191.15.https > 192.168.0.235.59560: Flags [.], ack 1, win 122, options [nop,nop,TS val 2406003266 ecr 2435622], length 0
+21:28:42.521037 IP 200.142.191.15.https > 192.168.0.235.59562: Flags [.], ack 1, win 122, options [nop,nop,TS val 2406003266 ecr 2435622], length 0
+21:28:42.525214 IP 200.142.191.15.https > 192.168.0.235.59566: Flags [.], ack 1, win 122, options [nop,nop,TS val 2406003271 ecr 2435622], length 0
+21:28:42.525239 IP 200.142.191.15.https > 192.168.0.235.59568: Flags [.], ack 1, win 122, options [nop,nop,TS val 2406003271 ecr 2435622], length 0
+21:28:42.526538 IP 200.142.191.15.https > 192.168.0.235.59570: Flags [.], ack 1, win 122, options [nop,nop,TS val 2406003271 ecr 2435622], length 0
+21:28:42.671518 IP 192.168.0.235.56736 > 200.142.191.27.https: Flags [.], ack 4002918796, win 336, options [nop,nop,TS val 2446912 ecr 2084864447], length 0
+21:28:42.678925 IP 200.142.191.27.https > 192.168.0.235.56736: Flags [.], ack 1, win 122, options [nop,nop,TS val 2084909505 ecr 2435656], length 0
+21:28:42.815521 IP 192.168.0.235.59482 > 200.142.191.49.https: Flags [.], ack 1875841943, win 348, options [nop,nop,TS val 2446948 ecr 3522919506], length 0
+21:28:42.819511 IP 192.168.0.235.59480 > 200.142.191.49.https: Flags [.], ack 1994604203, win 336, options [nop,nop,TS val 2446949 ecr 3522919506], length 0
+21:28:42.839491 IP 192.168.0.235.41436 > 200.142.191.42.https: Flags [.], ack 3555078768, win 358, options [nop,nop,TS val 2446954 ecr 963357450], length 0
+21:28:42.860639 IP 200.142.191.49.https > 192.168.0.235.59480: Flags [.], ack 1, win 122, options [nop,nop,TS val 3522964548 ecr 2435699], length 0
+21:28:42.865299 IP 200.142.191.49.https > 192.168.0.235.59482: Flags [.], ack 1, win 122, options [nop,nop,TS val 3522964546 ecr 2435708], length 0
+21:28:42.867511 IP 192.168.0.235.60036 > 200.142.191.34.https: Flags [.], ack 2955845151, win 358, options [nop,nop,TS val 2446961 ecr 1287952732], length 0
+21:28:42.869930 IP 200.142.191.42.https > 192.168.0.235.41436: Flags [.], ack 1, win 122, options [nop,nop,TS val 963402476 ecr 2435702], length 0
+21:28:42.875514 IP 192.168.0.235.43186 > 13.32.247.127.https: Flags [.], ack 640682097, win 328, options [nop,nop,TS val 2446963 ecr 486057778], length 0
+21:28:42.885123 IP 200.142.191.34.https > 192.168.0.235.60036: Flags [.], ack 1, win 126, options [nop,nop,TS val 1287997748 ecr 2435703], length 0
+21:28:42.887510 IP 192.168.0.235.43188 > 13.32.247.127.https: Flags [.], ack 4029947986, win 328, options [nop,nop,TS val 2446966 ecr 486057194], length 0
+21:28:43.027512 IP 192.168.0.235.46834 > scl03s11-in-f138.1e100.net.https: Flags [.], ack 748151797, win 354, options [nop,nop,TS val 2447001 ecr 1853364746], length 0
+21:28:43.047379 IP 13.32.247.127.https > 192.168.0.235.43186: Flags [.], ack 1, win 118, options [nop,nop,TS val 486062295 ecr 2435723], length 0
+21:28:43.085987 IP 13.32.247.127.https > 192.168.0.235.43188: Flags [.], ack 1, win 118, options [nop,nop,TS val 486061711 ecr 2435726], length 0
+21:28:43.087460 IP 192.168.0.235.56778 > ams15s21-in-f131.1e100.net.https: Flags [.], ack 2717170529, win 319, options [nop,nop,TS val 2447016 ecr 322910896], length 0
+21:28:43.087473 IP 192.168.0.235.56780 > ams15s21-in-f131.1e100.net.https: Flags [.], ack 4154987976, win 319, options [nop,nop,TS val 2447016 ecr 578111171], length 0
+21:28:43.107026 IP 192.168.0.235.49008 > ec2-174-129-55-33.compute-1.amazonaws.com.https: Flags [P.], seq 1437104931:1437104993, ack 589268973, win 1438, options [nop,nop,TS val 2447020 ecr 125670988], length 62
+21:28:43.120303 IP scl03s11-in-f138.1e100.net.https > 192.168.0.235.46834: Flags [.], ack 1, win 349, options [nop,nop,TS val 1853409823 ecr 2435722], length 0
+21:28:43.300363 IP ec2-174-129-55-33.compute-1.amazonaws.com.https > 192.168.0.235.49008: Flags [P.], seq 1:63, ack 62, win 1332, options [nop,nop,TS val 125673488 ecr 2447020], length 62
+21:28:43.300391 IP 192.168.0.235.49008 > ec2-174-129-55-33.compute-1.amazonaws.com.https: Flags [.], ack 63, win 1438, options [nop,nop,TS val 2447069 ecr 125673488], length 0
+21:28:43.327996 IP ams15s21-in-f131.1e100.net.https > 192.168.0.235.56778: Flags [.], ack 1, win 349, options [nop,nop,TS val 322956160 ecr 2435776], length 0
+21:28:43.332222 IP ams15s21-in-f131.1e100.net.https > 192.168.0.235.56780: Flags [.], ack 1, win 349, options [nop,nop,TS val 578156448 ecr 2435775], length 0
+21:28:43.380144 IP 192.168.0.235.44617 > resolver1.opendns.com.domain: 4880+ PTR? 15.191.142.200.in-addr.arpa. (45)
+21:28:43.607637 IP resolver1.opendns.com.domain > 192.168.0.235.44617: 4880 NXDomain 0/1/0 (115)
+21:28:43.607853 IP 192.168.0.235.49802 > resolver1.opendns.com.domain: 63060+ PTR? 235.0.168.192.in-addr.arpa. (44)
+21:28:43.812742 IP resolver1.opendns.com.domain > 192.168.0.235.49802: 63060* 0/1/0 (103)
+21:28:43.812963 IP 192.168.0.235.43136 > resolver1.opendns.com.domain: 29727+ PTR? 27.191.142.200.in-addr.arpa. (45)
+21:28:44.017543 IP resolver1.opendns.com.domain > 192.168.0.235.43136: 29727 NXDomain 0/1/0 (115)
+21:28:44.017764 IP 192.168.0.235.53146 > resolver1.opendns.com.domain: 35874+ PTR? 49.191.142.200.in-addr.arpa. (45)
+21:28:44.222928 IP resolver1.opendns.com.domain > 192.168.0.235.53146: 35874 NXDomain 0/1/0 (115)
+21:28:44.223139 IP 192.168.0.235.44628 > resolver1.opendns.com.domain: 53515+ PTR? 42.191.142.200.in-addr.arpa. (45)
+21:28:44.426466 IP resolver1.opendns.com.domain > 192.168.0.235.44628: 53515 NXDomain 0/1/0 (115)
+21:28:44.426655 IP 192.168.0.235.36572 > resolver1.opendns.com.domain: 29020+ PTR? 34.191.142.200.in-addr.arpa. (45)
+21:28:44.631810 IP resolver1.opendns.com.domain > 192.168.0.235.36572: 29020 NXDomain 0/1/0 (115)
+21:28:44.632057 IP 192.168.0.235.58308 > resolver1.opendns.com.domain: 10890+ PTR? 127.247.32.13.in-addr.arpa. (44)
+21:28:44.815553 IP 192.168.0.235.59498 > 200.142.191.49.https: Flags [.], ack 1259904829, win 377, options [nop,nop,TS val 2447448 ecr 3522921494], length 0
+21:28:44.825226 IP 200.142.191.49.https > 192.168.0.235.59498: Flags [.], ack 1, win 131, options [nop,nop,TS val 3522966513 ecr 2436207], length 0
+21:28:44.839047 IP resolver1.opendns.com.domain > 192.168.0.235.58308: 10890 ServFail 0/0/0 (44)
+21:28:44.839392 IP 192.168.0.235.34529 > google-public-dns-a.google.com.domain: 61202+ PTR? 127.247.32.13.in-addr.arpa. (44)
+21:28:44.839424 IP 192.168.0.235.34529 > google-public-dns-b.google.com.domain: 61202+ PTR? 127.247.32.13.in-addr.arpa. (44)
+21:28:44.867550 IP 192.168.0.235.41720 > eze03s06-in-f13.1e100.net.https: Flags [.], ack 1537444767, win 353, options [nop,nop,TS val 2447461 ecr 1679823507], length 0
+21:28:44.924696 IP eze03s06-in-f13.1e100.net.https > 192.168.0.235.41720: Flags [.], ack 1, win 368, options [nop,nop,TS val 1679868555 ecr 2436198], length 0
+21:28:44.927544 IP 192.168.0.235.59500 > 200.142.191.49.https: Flags [.], ack 3838040418, win 326, options [nop,nop,TS val 2447476 ecr 3522921592], length 0
+21:28:44.937670 IP 200.142.191.49.https > 192.168.0.235.59500: Flags [.], ack 1, win 122, options [nop,nop,TS val 3522966622 ecr 2436226], length 0
+21:28:45.283542 IP 192.168.0.235.39314 > ec2-52-2-116-176.compute-1.amazonaws.com.https: Flags [.], ack 1905226145, win 358, options [nop,nop,TS val 2447565 ecr 3184557795], length 0
+21:28:45.303550 IP 192.168.0.235.41558 > cb-in-f157.1e100.net.https: Flags [.], ack 1934107055, win 338, options [nop,nop,TS val 2447570 ecr 2998740177], length 0
+21:28:45.383400 IP cb-in-f157.1e100.net.https > 192.168.0.235.41558: Flags [.], ack 1, win 358, options [nop,nop,TS val 2998785257 ecr 2436298], length 0
+21:28:45.463484 IP ec2-52-2-116-176.compute-1.amazonaws.com.https > 192.168.0.235.39314: Flags [.], ack 1, win 104, options [nop,nop,TS val 3184569090 ecr 2436315], length 0
+21:28:46.273848 IP google-public-dns-a.google.com.domain > 192.168.0.235.34529: 61202 ServFail 0/0/0 (44)
+21:28:46.485536 IP google-public-dns-b.google.com.domain > 192.168.0.235.34529: 61202 ServFail 0/0/0 (44)
+21:28:46.485771 IP 192.168.0.235.47129 > resolver1.opendns.com.domain: 10890+ PTR? 127.247.32.13.in-addr.arpa. (44)
+21:28:46.784953 IP resolver1.opendns.com.domain > 192.168.0.235.47129: 10890 ServFail 0/0/0 (44)
+21:28:46.785266 IP 192.168.0.235.34529 > google-public-dns-b.google.com.domain: 43061+ PTR? 127.247.32.13.in-addr.arpa. (44)
+21:28:48.845981 IP google-public-dns-b.google.com.domain > 192.168.0.235.34529: 43061 ServFail 0/0/0 (44)
+21:28:48.846239 IP 192.168.0.235.35554 > resolver1.opendns.com.domain: 44287+ PTR? 138.222.58.216.in-addr.arpa. (45)
+21:28:49.143643 IP resolver1.opendns.com.domain > 192.168.0.235.35554: 44287 4/0/0 PTR scl03s11-in-f138.1e100.net., PTR scl03s11-in-f138.1e100.net., PTR scl03s11-in-f10.1e100.net., PTR scl03s11-in-f10.1e100.net. (143)
+21:28:49.143891 IP 192.168.0.235.38282 > resolver1.opendns.com.domain: 36431+ PTR? 131.212.58.216.in-addr.arpa. (45)
+21:28:49.343516 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [.], ack 3182029460, win 1439, options [nop,nop,TS val 2448580 ecr 2405965074], length 0
+21:28:49.553821 IP resolver1.opendns.com.domain > 192.168.0.235.38282: 36431 2/0/0 PTR ams15s21-in-f131.1e100.net., PTR ams15s21-in-f3.1e100.net. (114)
+21:28:49.553847 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 1, win 163, options [nop,nop,TS val 2406010096 ecr 2437324], length 0
+21:28:49.554064 IP 192.168.0.235.55457 > resolver1.opendns.com.domain: 36063+ PTR? 33.55.129.174.in-addr.arpa. (44)
+21:28:49.754347 IP resolver1.opendns.com.domain > 192.168.0.235.55457: 36063 1/0/0 PTR ec2-174-129-55-33.compute-1.amazonaws.com. (99)
+21:28:49.754601 IP 192.168.0.235.54466 > resolver1.opendns.com.domain: 22013+ PTR? 222.222.67.208.in-addr.arpa. (45)
+21:28:49.927524 IP 192.168.0.235.47988 > 200.142.191.44.https: Flags [.], ack 1672807132, win 336, options [nop,nop,TS val 2448726 ecr 3021026782], length 0
+21:28:49.930510 IP resolver1.opendns.com.domain > 192.168.0.235.54466: 22013 1/0/0 PTR resolver1.opendns.com. (80)
+21:28:49.930881 IP 192.168.0.235.39969 > resolver1.opendns.com.domain: 9144+ PTR? 8.8.8.8.in-addr.arpa. (38)
+21:28:49.937115 IP 200.142.191.44.https > 192.168.0.235.47988: Flags [.], ack 1, win 122, options [nop,nop,TS val 3021071814 ecr 2437476], length 0
+21:28:49.943510 IP 192.168.0.235.41458 > 200.142.191.42.https: Flags [.], ack 2352789326, win 360, options [nop,nop,TS val 2448730 ecr 963364519], length 0
+21:28:49.955893 IP 200.142.191.42.https > 192.168.0.235.41458: Flags [.], ack 1, win 122, options [nop,nop,TS val 963409558 ecr 2437480], length 0
+21:28:50.191520 IP 192.168.0.235.34340 > 200.142.191.57.https: Flags [.], ack 1120216760, win 380, options [nop,nop,TS val 2448792 ecr 1595752964], length 0
+21:28:50.367238 IP resolver1.opendns.com.domain > 192.168.0.235.39969: 9144 1/0/0 PTR google-public-dns-a.google.com. (82)
+21:28:50.367274 IP 200.142.191.57.https > 192.168.0.235.34340: Flags [.], ack 1, win 206, options [nop,nop,TS val 1595797976 ecr 2437538], length 0
+21:28:50.367560 IP 192.168.0.235.48599 > resolver1.opendns.com.domain: 21409+ PTR? 4.4.8.8.in-addr.arpa. (38)
+21:28:50.581539 IP resolver1.opendns.com.domain > 192.168.0.235.48599: 21409 1/0/0 PTR google-public-dns-b.google.com. (82)
+21:28:50.581774 IP 192.168.0.235.38983 > resolver1.opendns.com.domain: 58568+ PTR? 13.29.217.172.in-addr.arpa. (44)
+21:28:50.820850 IP 192.168.0.235 > google-public-dns-a.google.com: ICMP echo request, id 12749, seq 1, length 64
+21:28:50.913656 IP resolver1.opendns.com.domain > 192.168.0.235.38983: 58568 4/0/0 PTR eze03s06-in-f13.1e100.net., PTR eze03s06-in-f13.1e100.net., PTR eze03s06-in-f13.1e100.net., PTR eze03s06-in-f13.1e100.net. (125)
+21:28:50.913916 IP 192.168.0.235.43440 > resolver1.opendns.com.domain: 22641+ PTR? 176.116.2.52.in-addr.arpa. (43)
+21:28:50.915313 IP google-public-dns-a.google.com > 192.168.0.235: ICMP echo reply, id 12749, seq 1, length 64
+21:28:51.110987 IP resolver1.opendns.com.domain > 192.168.0.235.43440: 22641 1/0/0 PTR ec2-52-2-116-176.compute-1.amazonaws.com. (97)
+21:28:51.111202 IP 192.168.0.235.51910 > resolver1.opendns.com.domain: 53827+ PTR? 157.186.233.64.in-addr.arpa. (45)
+21:28:51.247521 IP 192.168.0.235.46926 > a23-32-32-70.deploy.static.akamaitechnologies.com.http: Flags [F.], seq 1444456126, ack 2984852757, win 237, options [nop,nop,TS val 2449056 ecr 517101593], length 0
+21:28:51.305000 IP resolver1.opendns.com.domain > 192.168.0.235.51910: 53827 1/0/0 PTR cb-in-f157.1e100.net. (79)
+21:28:51.305658 IP 192.168.0.235.40895 > resolver1.opendns.com.domain: 32323+ PTR? 44.191.142.200.in-addr.arpa. (45)
+21:28:51.696350 IP resolver1.opendns.com.domain > 192.168.0.235.40895: 32323 NXDomain 0/1/0 (115)
+21:28:51.696801 IP 192.168.0.235.56915 > resolver1.opendns.com.domain: 6322+ PTR? 57.191.142.200.in-addr.arpa. (45)
+21:28:51.822451 IP 192.168.0.235 > google-public-dns-a.google.com: ICMP echo request, id 12749, seq 2, length 64
+21:28:51.849964 IP google-public-dns-a.google.com > 192.168.0.235: ICMP echo reply, id 12749, seq 2, length 64
+21:28:51.949706 IP resolver1.opendns.com.domain > 192.168.0.235.56915: 6322 NXDomain 0/1/0 (115)
+21:28:51.950152 IP 192.168.0.235.57549 > resolver1.opendns.com.domain: 42771+ PTR? 70.32.32.23.in-addr.arpa. (42)
+21:28:52.195521 IP 192.168.0.235.59512 > 200.142.191.49.https: Flags [.], ack 3783316400, win 336, options [nop,nop,TS val 2449293 ecr 3522928884], length 0
+21:28:52.196705 IP resolver1.opendns.com.domain > 192.168.0.235.57549: 42771 1/0/0 PTR a23-32-32-70.deploy.static.akamaitechnologies.com. (105)
+21:28:52.202978 IP 200.142.191.49.https > 192.168.0.235.59512: Flags [.], ack 1, win 122, options [nop,nop,TS val 3522973891 ecr 2438053], length 0
+21:28:52.299520 IP 192.168.0.235.59514 > 200.142.191.49.https: Flags [.], ack 1730821561, win 1444, options [nop,nop,TS val 2449319 ecr 3522928989], length 0
+21:28:52.310601 IP 200.142.191.49.https > 192.168.0.235.59514: Flags [.], ack 1, win 126, options [nop,nop,TS val 3522973996 ecr 2438056], length 0
+21:28:53.007539 IP 192.168.0.235.56794 > ams15s21-in-f131.1e100.net.https: Flags [.], ack 2830176459, win 229, options [nop,nop,TS val 2449496 ecr 127106808], length 0
+21:28:53.107136 IP 192.168.0.235.49008 > ec2-174-129-55-33.compute-1.amazonaws.com.https: Flags [P.], seq 62:124, ack 63, win 1438, options [nop,nop,TS val 2449520 ecr 125673488], length 62
+21:28:53.397141 IP 192.168.0.235.56780 > ams15s21-in-f131.1e100.net.https: Flags [R.], seq 1, ack 1, win 319, options [nop,nop,TS val 2449593 ecr 578156448], length 0
+21:28:53.397345 IP 192.168.0.235.56778 > ams15s21-in-f131.1e100.net.https: Flags [R.], seq 1, ack 1, win 319, options [nop,nop,TS val 2449593 ecr 322956160], length 0
+21:28:53.397474 IP 192.168.0.235.43186 > 13.32.247.127.https: Flags [R.], seq 1, ack 1, win 328, options [nop,nop,TS val 2449593 ecr 486062295], length 0
+21:28:53.397593 IP 192.168.0.235.43188 > 13.32.247.127.https: Flags [R.], seq 1, ack 1, win 328, options [nop,nop,TS val 2449593 ecr 486061711], length 0
+21:28:53.397679 IP 192.168.0.235.41458 > 200.142.191.42.https: Flags [R.], seq 1, ack 1, win 360, options [nop,nop,TS val 2449593 ecr 963409558], length 0
+21:28:53.397823 IP 192.168.0.235.47988 > 200.142.191.44.https: Flags [R.], seq 1, ack 1, win 336, options [nop,nop,TS val 2449593 ecr 3021071814], length 0
+21:28:53.397938 IP 192.168.0.235.59480 > 200.142.191.49.https: Flags [R.], seq 1, ack 1, win 336, options [nop,nop,TS val 2449593 ecr 3522964548], length 0
+21:28:53.398054 IP 192.168.0.235.59482 > 200.142.191.49.https: Flags [R.], seq 1, ack 1, win 348, options [nop,nop,TS val 2449593 ecr 3522964546], length 0
+21:28:53.398148 IP 192.168.0.235.59500 > 200.142.191.49.https: Flags [R.], seq 1, ack 1, win 326, options [nop,nop,TS val 2449593 ecr 3522966622], length 0
+21:28:53.398266 IP 192.168.0.235.59568 > 200.142.191.15.https: Flags [R.], seq 1, ack 1, win 336, options [nop,nop,TS val 2449593 ecr 2406003271], length 0
+21:28:53.398374 IP 192.168.0.235.59566 > 200.142.191.15.https: Flags [R.], seq 1, ack 1, win 348, options [nop,nop,TS val 2449593 ecr 2406003271], length 0
+21:28:53.398464 IP 192.168.0.235.59562 > 200.142.191.15.https: Flags [R.], seq 1, ack 1, win 348, options [nop,nop,TS val 2449593 ecr 2406003266], length 0
+21:28:53.398558 IP 192.168.0.235.59560 > 200.142.191.15.https: Flags [R.], seq 1, ack 1, win 360, options [nop,nop,TS val 2449593 ecr 2406003266], length 0
+21:28:53.398642 IP 192.168.0.235.59570 > 200.142.191.15.https: Flags [R.], seq 1, ack 1, win 348, options [nop,nop,TS val 2449593 ecr 2406003271], length 0
+21:28:53.398724 IP 192.168.0.235.56736 > 200.142.191.27.https: Flags [R.], seq 1, ack 1, win 336, options [nop,nop,TS val 2449593 ecr 2084909505], length 0
+21:28:53.398825 IP 192.168.0.235.56794 > ams15s21-in-f131.1e100.net.https: Flags [F.], seq 1, ack 1, win 229, options [nop,nop,TS val 2449593 ecr 127106808], length 0
+21:28:53.398843 IP 192.168.0.235.43210 > 13.32.247.127.https: Flags [F.], seq 2825437341, ack 1624761661, win 229, options [nop,nop,TS val 2449593 ecr 486066476], length 0
+21:28:53.398922 IP 192.168.0.235.54786 > resolver1.opendns.com.domain: 51816+ A? facebook.com. (30)
+21:28:53.399066 IP 192.168.0.235.60272 > resolver1.opendns.com.domain: 34249+ A? www.facebook.com. (34)
+21:28:53.400024 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 1:189, ack 1, win 1439, options [nop,nop,TS val 2449594 ecr 2406010096], length 188
+21:28:53.405181 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 189:235, ack 1, win 1439, options [nop,nop,TS val 2449595 ecr 2406010096], length 46
+21:28:53.448054 IP 192.168.0.235.30562 > resolver1.opendns.com.domain: 65488+ A? scontent.fgig3-1.fna.fbcdn.net. (48)
+21:28:53.451459 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 189:235, ack 1, win 1439, options [nop,nop,TS val 2449607 ecr 2406010096], length 46
+21:28:53.549754 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 235:277, ack 1, win 1439, options [nop,nop,TS val 2449631 ecr 2406010096], length 42
+21:28:53.552310 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 277:466, ack 1, win 1439, options [nop,nop,TS val 2449632 ecr 2406010096], length 189
+21:28:53.555463 IP 192.168.0.235.49008 > ec2-174-129-55-33.compute-1.amazonaws.com.https: Flags [P.], seq 62:124, ack 63, win 1438, options [nop,nop,TS val 2449633 ecr 125673488], length 62
+21:28:53.557670 IP ams15s21-in-f131.1e100.net.https > 192.168.0.235.56794: Flags [R], seq 2830176459, win 0, length 0
+21:28:53.557692 IP ec2-174-129-55-33.compute-1.amazonaws.com.https > 192.168.0.235.49008: Flags [P.], seq 63:125, ack 124, win 1332, options [nop,nop,TS val 125675987 ecr 2449520], length 62
+21:28:53.557705 IP 192.168.0.235.49008 > ec2-174-129-55-33.compute-1.amazonaws.com.https: Flags [.], ack 125, win 1438, options [nop,nop,TS val 2449633 ecr 125675987], length 0
+21:28:53.559182 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 189, win 169, options [nop,nop,TS val 2406014160 ecr 2449594], length 0
+21:28:53.577905 IP 192.168.0.235.mdns > 224.0.0.251.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+21:28:53.577954 IP6 fe80::9b27:110c:5be0:7eea.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+21:28:53.578330 IP 192.168.0.235.mdns > 224.0.0.251.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+21:28:53.578381 IP6 fe80::9b27:110c:5be0:7eea.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+21:28:53.579556 IP 192.168.0.235.51440 > 239.255.255.250.1900: UDP, length 171
+21:28:53.691513 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 189:466, ack 1, win 1439, options [nop,nop,TS val 2449667 ecr 2406014160], length 277
+21:28:53.751489 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [P.], seq 1:47, ack 235, win 169, options [nop,nop,TS val 2406014195 ecr 2449595], length 46
+21:28:53.751602 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 466:508, ack 47, win 1439, options [nop,nop,TS val 2449682 ecr 2406014195], length 42
+21:28:53.751656 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 235, win 169, options [nop,nop,TS val 2406014205 ecr 2449607,nop,nop,sack 1 {189:235}], length 0
+21:28:53.751678 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [P.], seq 47:125, ack 235, win 169, options [nop,nop,TS val 2406014237 ecr 2449607], length 78
+21:28:53.751691 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [P.], seq 125:709, ack 235, win 169, options [nop,nop,TS val 2406014237 ecr 2449607], length 584
+21:28:53.751916 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [.], ack 709, win 1461, options [nop,nop,TS val 2449682 ecr 2406014237], length 0
+21:28:53.755444 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [P.], seq 709:755, ack 235, win 169, options [nop,nop,TS val 2406014269 ecr 2449607], length 46
+21:28:53.755988 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 508:554, ack 755, win 1461, options [nop,nop,TS val 2449683 ecr 2406014269], length 46
+21:28:53.837730 IP resolver1.opendns.com.domain > 192.168.0.235.60272: 34249 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.73.36 (79)
+21:28:53.837942 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [S], seq 3891696763, win 29200, options [mss 1460,sackOK,TS val 2449703 ecr 0,nop,wscale 7], length 0
+21:28:53.837982 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [S], seq 1046377015, win 29200, options [mss 1460,sackOK,TS val 2449703 ecr 0,nop,wscale 7], length 0
+21:28:53.839989 IP resolver1.opendns.com.domain > 192.168.0.235.54786: 51816 1/0/0 A 31.13.73.36 (46)
+21:28:53.839999 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 277, win 169, options [nop,nop,TS val 2406014305 ecr 2449631], length 0
+21:28:53.840007 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 466, win 175, options [nop,nop,TS val 2406014305 ecr 2449632], length 0
+21:28:53.840120 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [S], seq 139952999, win 29200, options [mss 1460,sackOK,TS val 2449704 ecr 0,nop,wscale 7], length 0
+21:28:53.871478 IP 192.168.0.235.43210 > 13.32.247.127.https: Flags [F.], seq 0, ack 1, win 229, options [nop,nop,TS val 2449712 ecr 486066476], length 0
+21:28:53.900367 IP 192.168.0.235.40158 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [S], seq 797842326, win 29200, options [mss 1460,sackOK,TS val 2449719 ecr 0,nop,wscale 7], length 0
+21:28:53.950176 IP 192.168.0.235.40160 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [S], seq 2120509401, win 29200, options [mss 1460,sackOK,TS val 2449731 ecr 0,nop,wscale 7], length 0
+21:28:53.983508 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [P.], seq 508:554, ack 755, win 1461, options [nop,nop,TS val 2449740 ecr 2406014305], length 46
+21:28:54.158124 IP resolver1.opendns.com.domain > 192.168.0.235.30562: 65488 1/0/0 A 200.220.194.145 (64)
+21:28:54.158151 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [P.], seq 755:1420, ack 466, win 175, options [nop,nop,TS val 2406014384 ecr 2449632], length 665
+21:28:54.158777 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 466, win 175, options [nop,nop,TS val 2406014447 ecr 2449667,nop,nop,sack 1 {189:466}], length 0
+21:28:54.158790 IP ec2-174-129-55-33.compute-1.amazonaws.com.https > 192.168.0.235.49008: Flags [.], ack 124, win 1332, options [nop,nop,TS val 125676099 ecr 2449633,nop,nop,sack 1 {62:124}], length 0
+21:28:54.158794 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 508, win 175, options [nop,nop,TS val 2406014508 ecr 2449682], length 0
+21:28:54.158799 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 554, win 175, options [nop,nop,TS val 2406014511 ecr 2449683], length 0
+21:28:54.159685 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [S.], seq 2395916504, ack 1046377016, win 27960, options [mss 1410,sackOK,TS val 542361552 ecr 2449703,nop,wscale 8], length 0
+21:28:54.159719 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2449784 ecr 542361552], length 0
+21:28:54.159736 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40156: Flags [S.], seq 1049056351, ack 139953000, win 27960, options [mss 1410,sackOK,TS val 551124173 ecr 2449704,nop,wscale 8], length 0
+21:28:54.159748 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2449784 ecr 551124173], length 0
+21:28:54.159753 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40152: Flags [S.], seq 1767071443, ack 3891696764, win 27960, options [mss 1410,sackOK,TS val 2165327026 ecr 2449703,nop,wscale 8], length 0
+21:28:54.159759 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2449784 ecr 2165327026], length 0
+21:28:54.159917 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 1:209, ack 1, win 229, options [nop,nop,TS val 2449784 ecr 542361552], length 208
+21:28:54.159991 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 1:205, ack 1, win 229, options [nop,nop,TS val 2449784 ecr 551124173], length 204
+21:28:54.160061 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 1:209, ack 1, win 229, options [nop,nop,TS val 2449784 ecr 2165327026], length 208
+21:28:54.160079 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [.], ack 554, win 175, options [nop,nop,TS val 2406014738 ecr 2449740,nop,nop,sack 1 {508:554}], length 0
+21:28:54.160509 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40158: Flags [S.], seq 1986312935, ack 797842327, win 27960, options [mss 1410,sackOK,TS val 611567545 ecr 2449719,nop,wscale 8], length 0
+21:28:54.160531 IP 192.168.0.235.40158 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2449784 ecr 611567545], length 0
+21:28:54.162081 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40160: Flags [S.], seq 2743509573, ack 2120509402, win 27960, options [mss 1410,sackOK,TS val 568425660 ecr 2449731,nop,wscale 8], length 0
+21:28:54.162093 IP 192.168.0.235.40160 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2449784 ecr 568425660], length 0
+21:28:54.195454 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [.], ack 1420, win 1482, options [nop,nop,TS val 2449793 ecr 2406014384], length 0
+21:28:54.380095 IP 192.168.0.235.52092 > resolver1.opendns.com.domain: 63969+ PTR? 251.0.0.224.in-addr.arpa. (42)
+21:28:54.415491 IP 192.168.0.235.43210 > 13.32.247.127.https: Flags [F.], seq 0, ack 1, win 229, options [nop,nop,TS val 2449848 ecr 486066476], length 0
+21:28:54.579538 IP 192.168.0.235.mdns > 224.0.0.251.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+21:28:54.579578 IP6 fe80::9b27:110c:5be0:7eea.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+21:28:54.579632 IP 192.168.0.235.51440 > 239.255.255.250.1900: UDP, length 171
+21:28:54.581010 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], ack 209, win 114, options [nop,nop,TS val 542361876 ecr 2449784], length 0
+21:28:54.581036 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40152: Flags [.], ack 209, win 114, options [nop,nop,TS val 2165327350 ecr 2449784], length 0
+21:28:54.595715 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 1:3489, ack 209, win 114, options [nop,nop,TS val 542361877 ecr 2449784], length 3488
+21:28:54.595750 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3489, win 283, options [nop,nop,TS val 2449893 ecr 542361877], length 0
+21:28:54.596859 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 209:335, ack 3489, win 283, options [nop,nop,TS val 2449893 ecr 542361877], length 126
+21:28:54.601094 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 335:388, ack 3489, win 283, options [nop,nop,TS val 2449894 ecr 542361877], length 53
+21:28:54.601872 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 388:957, ack 3489, win 283, options [nop,nop,TS val 2449894 ecr 542361877], length 569
+21:28:54.607001 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40152: Flags [P.], seq 1:3488, ack 209, win 114, options [nop,nop,TS val 2165327350 ecr 2449784], length 3487
+21:28:54.607034 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3488, win 283, options [nop,nop,TS val 2449895 ecr 2165327350], length 0
+21:28:54.607048 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40156: Flags [.], ack 205, win 114, options [nop,nop,TS val 551124504 ecr 2449784], length 0
+21:28:54.607065 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40156: Flags [P.], seq 1:3490, ack 205, win 114, options [nop,nop,TS val 551124505 ecr 2449784], length 3489
+21:28:54.607072 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3490, win 283, options [nop,nop,TS val 2449895 ecr 551124505], length 0
+21:28:54.607076 IP resolver1.opendns.com.domain > 192.168.0.235.52092: 63969 NXDomain 0/1/0 (112)
+21:28:54.607290 IP 192.168.0.235.42712 > resolver1.opendns.com.domain: 31326+ PTR? b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+21:28:54.608179 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 209:335, ack 3488, win 283, options [nop,nop,TS val 2449896 ecr 2165327350], length 126
+21:28:54.609823 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 205:331, ack 3490, win 283, options [nop,nop,TS val 2449896 ecr 551124505], length 126
+21:28:54.768721 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 3489:3747, ack 335, win 114, options [nop,nop,TS val 542362313 ecr 2449893], length 258
+21:28:54.768748 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 3747:3828, ack 335, win 114, options [nop,nop,TS val 542362313 ecr 2449893], length 81
+21:28:54.768752 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], ack 957, win 118, options [nop,nop,TS val 542362317 ecr 2449894], length 0
+21:28:54.768757 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 3828:3866, ack 957, win 118, options [nop,nop,TS val 542362317 ecr 2449894], length 38
+21:28:54.768760 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 3866:3908, ack 957, win 118, options [nop,nop,TS val 542362318 ecr 2449894], length 42
+21:28:54.768763 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40152: Flags [P.], seq 3488:3746, ack 335, win 114, options [nop,nop,TS val 2165327794 ecr 2449896], length 258
+21:28:54.768767 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40152: Flags [P.], seq 3746:3827, ack 335, win 114, options [nop,nop,TS val 2165327795 ecr 2449896], length 81
+21:28:54.768770 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40156: Flags [P.], seq 3490:3748, ack 331, win 114, options [nop,nop,TS val 551124946 ecr 2449896], length 258
+21:28:54.768772 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3828, win 305, options [nop,nop,TS val 2449936 ecr 542362313], length 0
+21:28:54.768774 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40156: Flags [P.], seq 3748:3829, ack 331, win 114, options [nop,nop,TS val 551124946 ecr 2449896], length 81
+21:28:54.768778 IP resolver1.opendns.com.domain > 192.168.0.235.42712: 31326 NXDomain 0/1/0 (158)
+21:28:54.768867 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3908, win 305, options [nop,nop,TS val 2449936 ecr 542362317], length 0
+21:28:54.768933 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 957:995, ack 3908, win 305, options [nop,nop,TS val 2449936 ecr 542362317], length 38
+21:28:54.768952 IP 192.168.0.235.36032 > resolver1.opendns.com.domain: 18893+ PTR? a.e.e.7.0.e.b.5.c.0.1.1.7.2.b.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+21:28:54.807451 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3829, win 305, options [nop,nop,TS val 2449946 ecr 551124946], length 0
+21:28:54.807466 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 3827, win 305, options [nop,nop,TS val 2449946 ecr 2165327794], length 0
+21:28:54.813105 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 3908:5149, ack 957, win 118, options [nop,nop,TS val 542362379 ecr 2449894], length 1241
+21:28:54.851463 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 5149, win 327, options [nop,nop,TS val 2449957 ecr 542362379], length 0
+21:28:54.942012 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 5149:6547, ack 957, win 118, options [nop,nop,TS val 542362388 ecr 2449894], length 1398
+21:28:54.942041 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 6547, win 349, options [nop,nop,TS val 2449979 ecr 542362388], length 0
+21:28:54.950869 IP 192.168.0.235.48932 > resolver1.opendns.com.domain: 43706+ A? video.fgig3-1.fna.fbcdn.net. (45)
+21:28:55.089638 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 6547:7945, ack 957, win 118, options [nop,nop,TS val 542362388 ecr 2449894], length 1398
+21:28:55.089660 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 7945, win 370, options [nop,nop,TS val 2450016 ecr 542362388], length 0
+21:28:55.093470 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 7945:8945, ack 957, win 118, options [nop,nop,TS val 542362388 ecr 2449894], length 1000
+21:28:55.093479 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 8945, win 392, options [nop,nop,TS val 2450017 ecr 542362388], length 0
+21:28:55.111281 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 8945:11741, ack 957, win 118, options [nop,nop,TS val 542362419 ecr 2449894], length 2796
+21:28:55.111304 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 11741, win 436, options [nop,nop,TS val 2450021 ecr 542362419], length 0
+21:28:55.113121 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 11741:13139, ack 957, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.113130 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 13139, win 458, options [nop,nop,TS val 2450022 ecr 542362482], length 0
+21:28:55.124425 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 13139:14537, ack 957, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.124446 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 480, options [nop,nop,TS val 2450025 ecr 542362482], length 0
+21:28:55.203448 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 15935:17333, ack 957, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.203479 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 502, options [nop,nop,TS val 2450045 ecr 542362482,nop,nop,sack 1 {15935:17333}], length 0
+21:28:55.203490 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 17333:18731, ack 957, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.203494 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 523, options [nop,nop,TS val 2450045 ecr 542362482,nop,nop,sack 1 {15935:18731}], length 0
+21:28:55.203496 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 18731:20129, ack 957, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.203499 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 545, options [nop,nop,TS val 2450045 ecr 542362482,nop,nop,sack 1 {15935:20129}], length 0
+21:28:55.203501 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 20129:21527, ack 995, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.203506 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 567, options [nop,nop,TS val 2450045 ecr 542362482,nop,nop,sack 1 {15935:21527}], length 0
+21:28:55.203508 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 21527:22925, ack 995, win 118, options [nop,nop,TS val 542362482 ecr 2449936], length 1398
+21:28:55.203510 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 589, options [nop,nop,TS val 2450045 ecr 542362482,nop,nop,sack 1 {15935:22925}], length 0
+21:28:55.203512 IP resolver1.opendns.com.domain > 192.168.0.235.36032: 18893* 0/1/0 (149)
+21:28:55.203701 IP 192.168.0.235.44076 > resolver1.opendns.com.domain: 46805+ PTR? 250.255.255.239.in-addr.arpa. (46)
+21:28:55.304439 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 22925:25721, ack 995, win 118, options [nop,nop,TS val 542362567 ecr 2449957], length 2796
+21:28:55.304478 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 633, options [nop,nop,TS val 2450070 ecr 542362482,nop,nop,sack 1 {15935:25721}], length 0
+21:28:55.309155 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 25721:28517, ack 995, win 118, options [nop,nop,TS val 542362656 ecr 2449979], length 2796
+21:28:55.309183 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 676, options [nop,nop,TS val 2450071 ecr 542362482,nop,nop,sack 1 {15935:28517}], length 0
+21:28:55.310585 IP resolver1.opendns.com.domain > 192.168.0.235.48932: 43706 1/0/0 A 200.220.194.146 (61)
+21:28:55.310821 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [S], seq 1723347708, win 29200, options [mss 1460,sackOK,TS val 2450071 ecr 0,nop,wscale 7], length 0
+21:28:55.311248 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 28517:31313, ack 995, win 118, options [nop,nop,TS val 542362802 ecr 2450016], length 2796
+21:28:55.311263 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 720, options [nop,nop,TS val 2450071 ecr 542362482,nop,nop,sack 1 {15935:31313}], length 0
+21:28:55.311714 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 31313:32711, ack 995, win 118, options [nop,nop,TS val 542362806 ecr 2450017], length 1398
+21:28:55.311741 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 742, options [nop,nop,TS val 2450072 ecr 542362482,nop,nop,sack 1 {15935:32711}], length 0
+21:28:55.321558 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 32711:34109, ack 995, win 118, options [nop,nop,TS val 542362806 ecr 2450017], length 1398
+21:28:55.321585 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 764, options [nop,nop,TS val 2450074 ecr 542362482,nop,nop,sack 1 {15935:34109}], length 0
+21:28:55.324618 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 34109:36905, ack 995, win 118, options [nop,nop,TS val 542362828 ecr 2450021], length 2796
+21:28:55.324630 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 807, options [nop,nop,TS val 2450075 ecr 542362482,nop,nop,sack 1 {15935:36905}], length 0
+21:28:55.324644 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 36905:42497, ack 995, win 118, options [nop,nop,TS val 542362828 ecr 2450022], length 5592
+21:28:55.324648 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 895, options [nop,nop,TS val 2450075 ecr 542362482,nop,nop,sack 1 {15935:42497}], length 0
+21:28:55.324652 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 42497:45293, ack 995, win 118, options [nop,nop,TS val 542362839 ecr 2450025], length 2796
+21:28:55.324655 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 938, options [nop,nop,TS val 2450075 ecr 542362482,nop,nop,sack 1 {15935:45293}], length 0
+21:28:55.353065 IP 200.220.194.146.https > 192.168.0.235.47882: Flags [S.], seq 3711929472, ack 1723347709, win 27960, options [mss 1410,sackOK,TS val 1744102237 ecr 2450071,nop,wscale 8], length 0
+21:28:55.353101 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2450082 ecr 1744102237], length 0
+21:28:55.353229 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [P.], seq 1:216, ack 1, win 229, options [nop,nop,TS val 2450082 ecr 1744102237], length 215
+21:28:55.354610 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 45293:46691, ack 995, win 118, options [nop,nop,TS val 542362920 ecr 2450045], length 1398
+21:28:55.354623 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 960, options [nop,nop,TS val 2450082 ecr 542362482,nop,nop,sack 1 {15935:46691}], length 0
+21:28:55.357719 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 46691:48089, ack 995, win 118, options [nop,nop,TS val 542362924 ecr 2450045], length 1398
+21:28:55.357732 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 982, options [nop,nop,TS val 2450083 ecr 542362482,nop,nop,sack 1 {15935:48089}], length 0
+21:28:55.362839 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 48089:49487, ack 995, win 118, options [nop,nop,TS val 542362928 ecr 2450045], length 1398
+21:28:55.362851 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 1004, options [nop,nop,TS val 2450084 ecr 542362482,nop,nop,sack 1 {15935:49487}], length 0
+21:28:55.375201 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 49487:50885, ack 995, win 118, options [nop,nop,TS val 542362928 ecr 2450045], length 1398
+21:28:55.375227 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 1026, options [nop,nop,TS val 2450087 ecr 542362482,nop,nop,sack 1 {15935:50885}], length 0
+21:28:55.384915 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 50885:52283, ack 995, win 118, options [nop,nop,TS val 542362928 ecr 2450045], length 1398
+21:28:55.384987 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 14537, win 1033, options [nop,nop,TS val 2450090 ecr 542362482,nop,nop,sack 1 {15935:52283}], length 0
+21:28:55.387626 IP resolver1.opendns.com.domain > 192.168.0.235.44076: 46805 NXDomain 0/1/0 (116)
+21:28:55.387883 IP 192.168.0.235.34284 > resolver1.opendns.com.domain: 53645+ PTR? 36.73.13.31.in-addr.arpa. (42)
+21:28:55.392688 IP 200.220.194.146.https > 192.168.0.235.47882: Flags [.], ack 216, win 114, options [nop,nop,TS val 1744102279 ecr 2450082], length 0
+21:28:55.394788 IP 200.220.194.146.https > 192.168.0.235.47882: Flags [.], seq 1:1399, ack 216, win 114, options [nop,nop,TS val 1744102279 ecr 2450082], length 1398
+21:28:55.394822 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [.], ack 1399, win 250, options [nop,nop,TS val 2450092 ecr 1744102279], length 0
+21:28:55.395500 IP 200.220.194.146.https > 192.168.0.235.47882: Flags [P.], seq 1399:3042, ack 216, win 114, options [nop,nop,TS val 1744102279 ecr 2450082], length 1643
+21:28:55.395515 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [.], ack 3042, win 276, options [nop,nop,TS val 2450093 ecr 1744102279], length 0
+21:28:55.396567 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [P.], seq 216:342, ack 3042, win 276, options [nop,nop,TS val 2450093 ecr 1744102279], length 126
+21:28:55.438758 IP 200.220.194.146.https > 192.168.0.235.47882: Flags [P.], seq 3042:3316, ack 342, win 114, options [nop,nop,TS val 1744102324 ecr 2450093], length 274
+21:28:55.440666 IP 200.220.194.146.https > 192.168.0.235.47882: Flags [P.], seq 3316:3397, ack 342, win 114, options [nop,nop,TS val 1744102324 ecr 2450093], length 81
+21:28:55.454016 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 14537:15935, ack 995, win 118, options [nop,nop,TS val 542363017 ecr 2450070], length 1398
+21:28:55.454050 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 52283, win 1017, options [nop,nop,TS val 2450107 ecr 542363017], length 0
+21:28:55.454063 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 52283:53681, ack 995, win 118, options [nop,nop,TS val 542363017 ecr 2450070], length 1398
+21:28:55.454085 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 53681, win 1007, options [nop,nop,TS val 2450107 ecr 542363017], length 0
+21:28:55.455773 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 53681:55079, ack 995, win 118, options [nop,nop,TS val 542363021 ecr 2450071], length 1398
+21:28:55.455785 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 55079, win 1069, options [nop,nop,TS val 2450108 ecr 542363021], length 0
+21:28:55.470050 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 55079:56477, ack 995, win 118, options [nop,nop,TS val 542363025 ecr 2450071], length 1398
+21:28:55.470073 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 56477, win 1091, options [nop,nop,TS val 2450111 ecr 542363025], length 0
+21:28:55.475453 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [.], ack 3397, win 298, options [nop,nop,TS val 2450113 ecr 1744102324], length 0
+21:28:55.507488 IP 192.168.0.235.43210 > 13.32.247.127.https: Flags [F.], seq 0, ack 1, win 229, options [nop,nop,TS val 2450121 ecr 486066476], length 0
+21:28:55.549515 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 56477:57875, ack 995, win 118, options [nop,nop,TS val 542363025 ecr 2450071], length 1398
+21:28:55.549553 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 57875, win 1113, options [nop,nop,TS val 2450131 ecr 542363025], length 0
+21:28:55.552703 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 57875:59273, ack 995, win 118, options [nop,nop,TS val 542363034 ecr 2450074], length 1398
+21:28:55.552725 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 59273, win 1135, options [nop,nop,TS val 2450132 ecr 542363034], length 0
+21:28:55.555095 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], seq 59273:60671, ack 995, win 118, options [nop,nop,TS val 542363050 ecr 2450075], length 1398
+21:28:55.555114 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 60671, win 1157, options [nop,nop,TS val 2450132 ecr 542363050], length 0
+21:28:55.559131 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 60671:63077, ack 995, win 118, options [nop,nop,TS val 542363050 ecr 2450075], length 2406
+21:28:55.559145 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 63077, win 1194, options [nop,nop,TS val 2450133 ecr 542363050], length 0
+21:28:55.560973 IP resolver1.opendns.com.domain > 192.168.0.235.34284: 53645 1/0/0 PTR edge-star-mini-shv-01-mia1.facebook.com. (95)
+21:28:55.561389 IP 192.168.0.235.53462 > resolver1.opendns.com.domain: 7634+ PTR? 146.194.220.200.in-addr.arpa. (46)
+21:28:55.580255 IP 192.168.0.235.51440 > 239.255.255.250.1900: UDP, length 171
+21:28:55.686919 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [P.], seq 995:1037, ack 63077, win 1194, options [nop,nop,TS val 2450165 ecr 542363050], length 42
+21:28:55.737569 IP 192.168.0.235.60036 > 200.142.191.34.https: Flags [F.], seq 1, ack 1, win 358, options [nop,nop,TS val 2450178 ecr 1287997748], length 0
+21:28:55.737732 IP 192.168.0.235.59514 > 200.142.191.49.https: Flags [F.], seq 1, ack 1, win 1444, options [nop,nop,TS val 2450178 ecr 3522973996], length 0
+21:28:55.737818 IP 192.168.0.235.59512 > 200.142.191.49.https: Flags [R.], seq 1, ack 1, win 336, options [nop,nop,TS val 2450178 ecr 3522973891], length 0
+21:28:55.759535 IP 200.142.191.34.https > 192.168.0.235.60036: Flags [F.], seq 1, ack 2, win 126, options [nop,nop,TS val 1288010616 ecr 2450178], length 0
+21:28:55.759574 IP 192.168.0.235.60036 > 200.142.191.34.https: Flags [.], ack 2, win 358, options [nop,nop,TS val 2450184 ecr 1288010616], length 0
+21:28:55.914189 IP 192.168.0.235.59498 > 200.142.191.49.https: Flags [F.], seq 1, ack 1, win 377, options [nop,nop,TS val 2450222 ecr 3522966513], length 0
+21:28:55.914870 IP 192.168.0.235.41558 > cb-in-f157.1e100.net.https: Flags [F.], seq 1, ack 1, win 338, options [nop,nop,TS val 2450222 ecr 2998785257], length 0
+21:28:55.914958 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [F.], seq 1037, ack 63077, win 1194, options [nop,nop,TS val 2450222 ecr 542363050], length 0
+21:28:55.915051 IP 192.168.0.235.41720 > eze03s06-in-f13.1e100.net.https: Flags [F.], seq 1, ack 1, win 353, options [nop,nop,TS val 2450222 ecr 1679868555], length 0
+21:28:55.915119 IP 192.168.0.235.34340 > 200.142.191.57.https: Flags [F.], seq 1, ack 1, win 380, options [nop,nop,TS val 2450222 ecr 1595797976], length 0
+21:28:55.915183 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [F.], seq 554, ack 1420, win 1482, options [nop,nop,TS val 2450222 ecr 2406014384], length 0
+21:28:55.915270 IP 192.168.0.235.47882 > 200.220.194.146.https: Flags [R.], seq 342, ack 3397, win 298, options [nop,nop,TS val 2450222 ecr 1744102324], length 0
+21:28:55.915345 IP 192.168.0.235.40156 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [R.], seq 331, ack 3829, win 305, options [nop,nop,TS val 2450222 ecr 551124946], length 0
+21:28:55.915413 IP 192.168.0.235.39314 > ec2-52-2-116-176.compute-1.amazonaws.com.https: Flags [F.], seq 1, ack 1, win 358, options [nop,nop,TS val 2450222 ecr 3184569090], length 0
+21:28:55.915447 IP 192.168.0.235.40152 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [R.], seq 335, ack 3827, win 305, options [nop,nop,TS val 2450223 ecr 2165327794], length 0
+21:28:55.915519 IP 192.168.0.235.40158 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [F.], seq 1, ack 1, win 229, options [nop,nop,TS val 2450223 ecr 611567545], length 0
+21:28:55.915528 IP 192.168.0.235.40160 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [F.], seq 1, ack 1, win 229, options [nop,nop,TS val 2450223 ecr 568425660], length 0
+21:28:55.925089 IP 200.142.191.49.https > 192.168.0.235.59514: Flags [F.], seq 1, ack 2, win 126, options [nop,nop,TS val 3522977433 ecr 2450178], length 0
+21:28:55.925114 IP 192.168.0.235.59514 > 200.142.191.49.https: Flags [.], ack 2, win 1444, options [nop,nop,TS val 2450225 ecr 3522977433], length 0
+21:28:55.926058 IP resolver1.opendns.com.domain > 192.168.0.235.53462: 7634 NXDomain 0/1/0 (124)
+21:28:55.926223 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [.], ack 1037, win 118, options [nop,nop,TS val 542363449 ecr 2450165], length 0
+21:28:55.928103 IP 200.142.191.49.https > 192.168.0.235.59498: Flags [F.], seq 1, ack 2, win 131, options [nop,nop,TS val 3522977613 ecr 2450222], length 0
+21:28:55.928116 IP 192.168.0.235.59498 > 200.142.191.49.https: Flags [.], ack 2, win 377, options [nop,nop,TS val 2450226 ecr 3522977613], length 0
+21:28:55.928125 IP 200.142.191.57.https > 192.168.0.235.34340: Flags [F.], seq 1, ack 2, win 206, options [nop,nop,TS val 1595803702 ecr 2450222], length 0
+21:28:55.928131 IP 192.168.0.235.34340 > 200.142.191.57.https: Flags [.], ack 2, win 380, options [nop,nop,TS val 2450226 ecr 1595803702], length 0
+21:28:55.928473 IP 200.142.191.15.https > 192.168.0.235.59564: Flags [F.], seq 1420, ack 555, win 175, options [nop,nop,TS val 2406016671 ecr 2450222], length 0
+21:28:55.928482 IP 192.168.0.235.59564 > 200.142.191.15.https: Flags [.], ack 1421, win 1482, options [nop,nop,TS val 2450226 ecr 2406016671], length 0
+21:28:55.947748 IP 192.168.0.235.46834 > scl03s11-in-f138.1e100.net.https: Flags [F.], seq 1, ack 1, win 354, options [nop,nop,TS val 2450231 ecr 1853409823], length 0
+21:28:55.947849 IP 192.168.0.235.41436 > 200.142.191.42.https: Flags [F.], seq 1, ack 1, win 358, options [nop,nop,TS val 2450231 ecr 963402476], length 0
+21:28:55.958986 IP 200.142.191.42.https > 192.168.0.235.41436: Flags [F.], seq 1, ack 2, win 122, options [nop,nop,TS val 963415565 ecr 2450231], length 0
+21:28:55.959014 IP 192.168.0.235.41436 > 200.142.191.42.https: Flags [.], ack 2, win 358, options [nop,nop,TS val 2450233 ecr 963415565], length 0
+21:28:55.973312 IP eze03s06-in-f13.1e100.net.https > 192.168.0.235.41720: Flags [F.], seq 1, ack 2, win 368, options [nop,nop,TS val 1679879608 ecr 2450222], length 0
+21:28:55.973343 IP 192.168.0.235.41720 > eze03s06-in-f13.1e100.net.https: Flags [.], ack 2, win 353, options [nop,nop,TS val 2450237 ecr 1679879608], length 0
+21:28:55.998009 IP cb-in-f157.1e100.net.https > 192.168.0.235.41558: Flags [F.], seq 1, ack 2, win 358, options [nop,nop,TS val 2998795868 ecr 2450222], length 0
+21:28:55.998040 IP 192.168.0.235.41558 > cb-in-f157.1e100.net.https: Flags [.], ack 2, win 338, options [nop,nop,TS val 2450243 ecr 2998795868], length 0
+21:28:56.024867 IP scl03s11-in-f138.1e100.net.https > 192.168.0.235.46834: Flags [F.], seq 1, ack 2, win 349, options [nop,nop,TS val 1853422744 ecr 2450231], length 0
+21:28:56.024899 IP 192.168.0.235.46834 > scl03s11-in-f138.1e100.net.https: Flags [.], ack 2, win 354, options [nop,nop,TS val 2450250 ecr 1853422744], length 0
+21:28:56.064977 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40158: Flags [F.], seq 1, ack 2, win 110, options [nop,nop,TS val 611569558 ecr 2450223], length 0
+21:28:56.065007 IP 192.168.0.235.40158 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 2, win 229, options [nop,nop,TS val 2450260 ecr 611569558], length 0
+21:28:56.065383 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 63077:63123, ack 1038, win 118, options [nop,nop,TS val 542363631 ecr 2450222], length 46
+21:28:56.065397 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [R], seq 1046378053, win 0, length 0
+21:28:56.066453 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [P.], seq 63123:63154, ack 1038, win 118, options [nop,nop,TS val 542363631 ecr 2450222], length 31
+21:28:56.066461 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [R], seq 1046378053, win 0, length 0
+21:28:56.066465 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40154: Flags [F.], seq 63154, ack 1038, win 118, options [nop,nop,TS val 542363631 ecr 2450222], length 0
+21:28:56.066468 IP 192.168.0.235.40154 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [R], seq 1046378053, win 0, length 0
+21:28:56.066470 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40160: Flags [.], ack 2, win 110, options [nop,nop,TS val 568427630 ecr 2450223], length 0
+21:28:56.066848 IP edge-star-mini-shv-01-mia1.facebook.com.https > 192.168.0.235.40160: Flags [F.], seq 1, ack 2, win 110, options [nop,nop,TS val 568427630 ecr 2450223], length 0
+21:28:56.066856 IP 192.168.0.235.40160 > edge-star-mini-shv-01-mia1.facebook.com.https: Flags [.], ack 2, win 229, options [nop,nop,TS val 2450260 ecr 568427630], length 0
+21:28:56.100935 IP ec2-52-2-116-176.compute-1.amazonaws.com.https > 192.168.0.235.39314: Flags [P.], seq 1:32, ack 2, win 104, options [nop,nop,TS val 3184571748 ecr 2450222], length 31
+21:28:56.100949 IP 192.168.0.235.39314 > ec2-52-2-116-176.compute-1.amazonaws.com.https: Flags [R], seq 2789437881, win 0, length 0
+21:28:56.100956 IP ec2-52-2-116-176.compute-1.amazonaws.com.https > 192.168.0.235.39314: Flags [F.], seq 32, ack 2, win 104, options [nop,nop,TS val 3184571748 ecr 2450222], length 0
+21:28:56.100959 IP 192.168.0.235.39314 > ec2-52-2-116-176.compute-1.amazonaws.com.https: Flags [R], seq 2789437881, win 0, length 0
+
