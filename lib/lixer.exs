@@ -1,3 +1,4 @@
+
 defmodule Lixer do
   @moduledoc """
   Documentation for Lixer.
@@ -37,15 +38,13 @@ defmodule Lixer do
     end 
   end
 end
-      log = Lixer.spit_log('tcp.log')
-      color = Enum.map(log, fn(l) -> 
-        Lixer.color_time(l) <> "\s" 
-        <> Lixer.color_src(l) <> "\s" 
-        <> Lixer.color_dst(l) <> "\s"
-        <> Lixer.color_flag(l) <> "\n"
-      end)
-      IO.puts color
-      
+  Enum.each(IO.stream(:stdio, :line), fn(l) ->
+    IO.puts(
+      Lixer.color_time(l) <> "\s" 
+      <> Lixer.color_src(l) <> "\s" 
+      <> Lixer.color_dst(l) <> "\s"
+      <> Lixer.color_flag(l) <> "\n")
+  end)
       
       
       

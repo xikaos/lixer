@@ -1,19 +1,12 @@
 # Lixer
+Hightlights tcpdump packet time, source/destination and TCP flags on the fly. It does filter output and can be kind of buggy, so use it only to impress your parents.
 
-**TODO: Add description**
+## Instalation
 
-## Installation
+`git clone https://github.com/xikaos/lixer && cd lixer`
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `lixer` to your list of dependencies in `mix.exs`:
+## Usage
 
-```elixir
-def deps do
-  [{:lixer, "~> 0.1.0"}]
-end
-```
+`sudo tcpdump -i wlan0 | elixir lib/lixer.exs`
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/lixer](https://hexdocs.pm/lixer).
-
+Please *do not* use this for serious purposes, I just like some nice colors in terminal.
